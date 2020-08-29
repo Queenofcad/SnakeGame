@@ -6,4 +6,4 @@ Recriação do jogo classico do Atari utilizando javaScript Vanilla, HTML e CSS.
 
 Desafio Digitaal Innovation One.
 
-<img src="./img/Snake_game">
+![./img/Snake_game]
