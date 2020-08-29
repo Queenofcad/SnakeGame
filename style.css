@@ -1,0 +1,27 @@
+body {
+    background-color: #700345;
+}
+.title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: #82a315;
+}
+
+.game {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    display: flex;
+    margin-top: 1rem;
+    justify-content: center;
+    color: #a1584f;
+    padding: 8px;
+    border-radius: 4px;
+      
+}
